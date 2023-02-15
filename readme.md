@@ -7,3 +7,5 @@ Este é outro repositório teste, para ver como funciona.
 Apenas mais uma experiencia.
 
 Estou a aprender a usar o Git.
+
+Testing ... Testing .. Don´t worry!
